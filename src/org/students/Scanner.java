@@ -22,6 +22,11 @@ public class Scanner {
 		
 		String city="Chennai";
 		System.out.println("Student City is "+city);
+		String city1="Chennai";
+		
+		System.out.println("Student City is "+city);
+		String city2="Chennai";
+		System.out.println("Student City is "+city);
 		
 	}
 
